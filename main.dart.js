@@ -63322,7 +63322,7 @@ n=A.ig(A.a([n,A.oE(o?A.wY(r).ux("Cursive"):A.pR(r).ux("Cursive"))],m),B.bZ,B.a_)
 o=o?A.pR(q).ec():A.Hi(q,B.j,18).ec()
 s=new A.ck(A.d8())
 s.nP(B.BA)
-return A.k6(A.a([n,o,B.vo,s.a7r(B.BK,10,A.ad1(!1,!0,A.ig(A.a([A.pR("Linked In").ec(),A.dH(A.f0("Photos/linked_in.png",p,50,50),B.J,p,p,p,p,p,p)],m),B.Z,B.d2),p,!0,p,p,p,p,p,p,p,p,p,new A.Uw(),p,p,p,p),p,15)],m),B.bZ,B.a_)},
+return A.k6(A.a([n,o,B.vo,s.a7r(B.BK,10,A.ad1(!1,!0,A.ig(A.a([A.pR("LinkedIn").ec(),A.dH(A.f0("Photos/linked_in.png",p,50,50),B.J,p,p,p,p,p,p)],m),B.Z,B.d2),p,!0,p,p,p,p,p,p,p,p,p,new A.Uw(),p,p,p,p),p,15)],m),B.bZ,B.a_)},
 $S:84}
 A.Uw.prototype={
 $0(){A.An("http://linkedin.com/in/aayampokharel")},
